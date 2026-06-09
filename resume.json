@@ -1,0 +1,52 @@
+{
+  "name": "Ashwaq U",
+  "location": "Coimbatore - 641008, Tamil Nadu, India",
+  "phone": "+91-98430-27835",
+  "email": "ashwaqu736@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/ashwaq-u",
+  "github": "https://github.com/Ashwaq-u",
+  "summary": "Entry-level AI developer with strong skills in Python, C++, and UI/UX design. Passionate about UI/UX Design, Data structures and Algorithms, and AI. Eager to leverage technical expertise for team growth.",
+  "experience": [
+    {
+      "title": "Software Testing Intern",
+      "company": "Ascentz Technologies",
+      "location": "Coimbatore",
+      "date": "Dec 2025 - Jan 2026",
+      "highlights": [
+        "Developed and executed comprehensive test plans (Manual & Automated).",
+        "Collaborated with cross-functional teams in Agile environments to shift testing left, reducing defects.",
+        "Built and maintained scalable automation suites."
+      ]
+    },
+    {
+      "title": "AI Engineering Intern",
+      "company": "Vaishnav Technologies",
+      "location": "Coimbatore",
+      "date": "Jun 2025 - Jul 2025",
+      "highlights": [
+        "Utilized prompt engineering techniques to create and refine datasets from Kaggle.",
+        "Trained machine learning models using TensorFlow, improving model accuracy and performance."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Artificial Intelligence & Data Science",
+      "school": "SNS College of Engineering, Coimbatore",
+      "period": "2023 - 2027",
+      "gpa": "8.35"
+    }
+  ],
+  "projects": [
+    { "name": "EPIZO", "desc": "Collected datasets from Kaggle and trained AI models for gesture recognition and control." },
+    { "name": "Certi-auth", "desc": "Enhanced a certificate validity authenticator app." },
+    { "name": "RecipeFlow", "desc": "Full stack React + Express + MongoDB recipe app improvements." }
+  ],
+  "skills": {
+    "programming": ["Python", "C", "C++", "JavaScript", "HTML5", "CSS3", "React.js"],
+    "databases": ["MongoDB"],
+    "tools": ["VS Code", "Docker", "GitHub", "Kaggle", "Figma"]
+  },
+  "languages": { "English": "Advanced", "Tamil": "Proficient", "German": "Beginner" },
+  "certifications": ["IBM Design Thinking", "Product Management MBA", "Gen AI"]
+}
